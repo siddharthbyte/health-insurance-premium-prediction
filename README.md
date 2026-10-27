@@ -4,7 +4,7 @@ An end-to-end Machine Learning project that predicts annual insurance premiums b
 
 ## Live Demo
 
-**Try the app:** [Your Streamlit App URL](PASTE_YOUR_STREAMLIT_URL_HERE)
+**Try the app:** [Your Streamlit App URL](https://health-insurance-premium-prediction-e9kw77pxjla6msxwfz5fq9.streamlit.app/)
 
 ## Project Overview
 
